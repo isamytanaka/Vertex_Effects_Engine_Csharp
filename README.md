@@ -1,8 +1,8 @@
 # Vertex Effects Engine Documentation
-
+![](vertex.PNG)
 ## Introduction
 
-The Vertex Effects Engine is a tool that helps you create visual effects for games. It works by taking a special language and turning it into C# code that Unity can use.
+> The **Vertex Effects Engine** is a **tool** that helps you create visual effects for games. It works by taking a special language and turning it into C# code that Unity can use.
 
 **Important Note**: This is version 1.0 of the engine. The generated code may contain errors or bugs. Please check the output code before using it in your projects.
 
