@@ -1,4 +1,36 @@
 # Vertex Effects Engine Documentation
+<div align="center">
+
+<!-- Projeto principal -->
+[![Vertex Engine](https://img.shields.io/badge/Vertex_Effects_Engine-FX_Core-8A2BE2?style=flat&logo=visualstudio&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)
+
+<!-- Linguagens e tecnologias -->
+![C#](https://img.shields.io/badge/C%23_Language-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=68217A&color=5C2D91)
+![Made with Lua](https://img.shields.io/badge/Made_with-Lua-000080?style=flat&logo=lua&logoColor=white&labelColor=191970&color=4169E1)
+![Unity Compatible](https://img.shields.io/badge/Unity_Compatible-Engine_Ready-000000?style=flat&logo=unity&logoColor=white&labelColor=333333&color=222222)
+
+<!-- Arquitetura e design -->
+![Modular Design](https://img.shields.io/badge/Architecture-Modular-DA70D6?style=flat&logo=code&logoColor=white&labelColor=BA55D3&color=9932CC)
+![Shader Support](https://img.shields.io/badge/Shader_Compatible-Yes-8B008B?style=flat&logo=opengl&logoColor=white&labelColor=4B0082&color=9400D3)
+![Performance First](https://img.shields.io/badge/Performance-Otimized-228B22?style=flat&logo=performance&logoColor=white&labelColor=006400&color=32CD32)
+
+<!-- Status e desenvolvimento -->
+[![Version](https://img.shields.io/badge/Version-1.0.0-00CED1?style=flat&logo=semantic-release&logoColor=white&labelColor=008B8B&color=20B2AA)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp/releases)
+![Benchmark Passed](https://img.shields.io/badge/Benchmark-Stable-4682B4?style=flat&logo=hackthebox&logoColor=white&labelColor=2F4F4F&color=1E90FF)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor_Friendly-32CD32?style=flat&logo=github&logoColor=white&labelColor=006400&color=228B22)
+[![License](https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp/blob/main/LICENSE)
+
+<!-- Plataforma e documentação -->
+![Cross-Platform](https://img.shields.io/badge/Cross--Platform-Windows_Linux_Mac-4682B4?style=flat&logo=windows&logoColor=white&labelColor=708090&color=2F4F4F)
+![Documentation Ready](https://img.shields.io/badge/Docs-Available-20B2AA?style=flat&logo=readthedocs&logoColor=white&labelColor=008B8B&color=5F9EA0)
+![Future-Proof](https://img.shields.io/badge/Support-Extended-708090?style=flat&logo=firebase&logoColor=white&labelColor=2F4F4F&color=778899)
+
+<!-- Desenvolvedor e GitHub -->
+![Powered by Isamytanaka](https://img.shields.io/badge/Powered_by-Isamytanaka-6A5ACD?style=flat&logo=github&logoColor=white&labelColor=483D8B&color=7B68EE)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-1E90FF?style=flat&logo=github&logoColor=white&labelColor=000000&color=4169E1)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)
+
+</div>
+
 ![](vertex.PNG)
 ## Introduction
 
