@@ -1,4 +1,6 @@
 # Vertex Effects Engine Documentation
+![](vertex.PNG)
+
 <div align="center">
 
 <!-- Projeto principal -->
@@ -31,7 +33,6 @@
 
 </div>
 
-![](vertex.PNG)
 ## Introduction
 
 > The **Vertex Effects Engine** is a **tool** that helps you create visual effects for games. It works by taking a special language and turning it into C# code that Unity can use.
